@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋, my name is Daniel Torres
+### Freelance Python engineer
+
+## Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)</br>
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)</br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)</br>
+
+## Find me at:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.torres2998@gmail.com)
 
 <!--
 **dani-ctes/dani-ctes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
