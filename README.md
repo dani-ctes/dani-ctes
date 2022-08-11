@@ -1,6 +1,8 @@
 ## Hi there 👋, my name is Daniel Torres
 ### Freelance Python engineer
 
+![https://github.com/dani-ctes](https://raw.githubusercontent.com/dani-ctes/dani-ctes/main/banner.png)
+
 ## Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)</br>
