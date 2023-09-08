@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Daniel Torres
+## Hi there 👋, my name is Daniel
 ### Network Software Engineer
 
 ![https://github.com/dani-ctes](https://raw.githubusercontent.com/dani-ctes/dani-ctes/main/banner.png)
