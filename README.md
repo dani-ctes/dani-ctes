@@ -2,8 +2,9 @@
 ### Network Software Engineer
 
 
-_I have worked on automation projects. </br>
-Discovery projects to expose insights, and help to take decision over evidence._ ⛳
+_I have worked on:_
+ - Automation projects.
+ - Discovery projects to expose insights, and help to take decision over evidence. ⛳
 
 
 
