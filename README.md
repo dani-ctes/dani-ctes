@@ -23,9 +23,8 @@ _Entre mis trabajos desarrollados:_
 * Backend (build REST APIs)
 * Python packages (Requests, Pandas, Django, Flask)
 * Shell scripting (Linux)
-* Containerized services (Docker)
+* Servicios en contenedores (Docker)
 * Data Science (web scraping, data visualization, machine learning)
-* Write documentation and make documentation sites
 * Tool command language (Tcl)
 
 More details on the tools:
