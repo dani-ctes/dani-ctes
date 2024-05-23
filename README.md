@@ -3,7 +3,7 @@
 
 
 _Entre mis trabajos desarrollados:_
- - Poryecto de Discovery para generar insights, y facilitar la toma de decisiones basado en evidencias. ⛳
+ - He trabajdo en poryectos de Discovery para generar insights, y facilitar la toma de decisiones basado en evidencias. ⛳
  - Proyectos de automatizaciones.
  - Sistemas de recomendación.
 
