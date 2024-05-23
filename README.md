@@ -1,16 +1,13 @@
-## Hi there 👋, my name is Daniel
-### Network Software Engineer
-
-
-_I have worked on:_
- - Automation projects.
- - Discovery projects to expose insights, and help to take decision over evidence. ⛳
+## Hola 👋, mi nombre es Daniel
 
 
 
+_Entre mis trabajos desarrollados:_
+ - Poryecto de Discovery para generar insights, y facilitar la toma de decisiones basado en evidencias. ⛳
+ - Proyectos de automatizaciones.
+ - Sistemas de recomendación.
 
-
-## 🎯 Some technologies I use:
+## 🎯 Algunas de las tecnología que utilizo:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
