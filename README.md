@@ -5,7 +5,7 @@
 _Entre mis trabajos desarrollados:_
  - He trabajdo en poryectos de Discovery para generar insights y facilitar la toma de decisiones basado en evidencias. ⛳[![Static Badge](https://img.shields.io/badge/Go%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/README.md)
  - Proyectos de automatizaciones.
- - Sistemas de recomendación.
+ - Sistemas de recomendación. [![Static Badge](https://img.shields.io/badge/Go%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_ECOMMERCE/)
 
 ## 🎯 Algunas de las tecnología que utilizo:
 
